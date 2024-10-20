@@ -1,2 +1,2 @@
-# SticekrSmashExpo
+# StickerSmashExpo
 sticerk smash expo tutorial
